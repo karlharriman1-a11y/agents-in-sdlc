@@ -68,8 +68,8 @@ Aquí termina el itinerario obligatorio de VS Code. Puedes parar aquí con el ta
 
 Si quieres ampliar tu perspectiva sobre las capacidades de los agentes de Copilot, los otros itinerarios cubren escenarios relacionados a través de distintas interfaces:
 
-- 💻 **[Itinerario de CLI](../../cli/)**: realiza flujos similares desde el terminal con Copilot CLI: modo plan, habilidades de agente, agentes personalizados y comandos de barra como `/share`, `/context` y `/delegate`.
-- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones a través de la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
+- 💻 **[Itinerario de CLI](../../cli/)**: publica desde el terminal dos cambios revisados con los modos Plan y Autopilot, habilidades, un agente de QA personalizado, Playwright MCP, Agent Merge y transferencias con contexto.
+- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones desde la página de agentes e iterar de forma asíncrona sobre pull requests.
 
 También puedes seguir ampliando lo que has empezado aquí. [awesome-copilot][awesome-copilot] es una gran fuente de archivos de instrucciones, agentes personalizados y habilidades que puedes adaptar a tus propios proyectos.
 

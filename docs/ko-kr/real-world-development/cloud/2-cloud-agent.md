@@ -102,7 +102,7 @@ jobs:
 2. **Issues** 탭을 선택합니다.
 3. **New issue**를 선택하여 새 이슈 대화 상자를 엽니다.
 4. **Blank issue**를 선택합니다.
-5. **Title**에 `코드에 문서가 부족합니다`를 입력합니다.
+5. **Title**에 `Code lacks documentation`을 입력합니다.
 6. **Description**에 다음을 입력합니다.
 
     ```plaintext
@@ -119,7 +119,7 @@ jobs:
     ![Copilot에 이슈를 할당한 세부 정보](../../../_images/ex4-assign-copilot-details.png)
 
 10. **Pull Requests** 탭을 선택합니다.
-11. 새 풀 리퀘스트(PR)를 엽니다. 제목은 `[WIP]: 문서 누락 수정`과 비슷할 수 있습니다. 목록에 새 PR이 없으면 잠시 기다린 뒤 브라우저 창을 새로 고칩니다.
+11. 새 풀 리퀘스트(PR)를 엽니다. 제목은 `[WIP]: Code lacks documentation`과 비슷할 수 있습니다. 목록에 새 PR이 없으면 잠시 기다린 뒤 브라우저 창을 새로 고칩니다.
 12. 몇 분 뒤 Copilot이 할 일 목록을 만든 것을 확인합니다.
 
 > [!NOTE]
@@ -146,7 +146,7 @@ GitHub Copilot cloud agent의 장점 중 하나는 작업을 나눌 수 있다�
 2. **Issues** 탭을 선택합니다.
 3. **New issue**를 선택하여 새 이슈 대화 상자를 엽니다.
 4. **Blank issue**를 선택합니다.
-5. **Title**에 `게임 상세 페이지에 관련 게임 표시`를 입력합니다.
+5. **Title**에 `Show related games on the game details page`를 입력합니다.
 6. **Description**에 다음을 입력합니다.
 
     ```markdown
